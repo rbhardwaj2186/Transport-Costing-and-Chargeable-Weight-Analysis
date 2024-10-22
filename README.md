@@ -2,6 +2,9 @@
  Analyzing transportation costs and chargeable weight to optimize logistics and supply chain efficiency, using Excel and Python, and providing actionable insights for cost reduction and improved decision-making
 Project Overview
 
+![Chargeable-Weight-Gross-Volumetric-cbm-1024x683](https://github.com/user-attachments/assets/8420ecc9-c0ed-456c-aa88-07289652b33c)
+
+
 This project focuses on analyzing the transport costing and chargeable weight of goods across various transportation modes. The goal is to provide insights into cost optimization, evaluate chargeable weight based on dimensional and actual weight calculations, and recommend improvements for better cost efficiency in supply chain operations. The project also demonstrates how to use Excel-based data analysis techniques to assess transportation costs.
 Dataset
 
